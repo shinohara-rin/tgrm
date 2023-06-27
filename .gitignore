@@ -1,0 +1,4 @@
+.env
+*.session
+.vscode/
+.DS_Store
